@@ -1,7 +1,7 @@
 # merge-together
 They
 Are
-Terrified
+Scared
 Of
 The
 Rubber
