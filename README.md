@@ -1,7 +1,7 @@
 # merge-together
 We
 Are
-Scared
+Terrified
 Of
 The
 Rubber
